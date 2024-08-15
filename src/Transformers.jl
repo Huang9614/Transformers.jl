@@ -28,4 +28,10 @@ using .Datasets
 
 using .HuggingFace
 
+function selfTry_dev()
+    println("selfTry_dev works!")
+end
+
+export selfTry_dev
+
 end # module
