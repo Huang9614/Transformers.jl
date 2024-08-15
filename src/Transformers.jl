@@ -28,4 +28,9 @@ using .Datasets
 
 using .HuggingFace
 
+function selfTry()
+    println("Trying works!")
+end
+
+export selfTry
 end # module
